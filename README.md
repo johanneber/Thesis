@@ -1,2 +1,2 @@
 # Thesis
-Extract of codes and discussion from my theis
+Extract of codes and discussion from my thesis
